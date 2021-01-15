@@ -1,0 +1,28 @@
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.exe.config
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.exe
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.pdb
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.csprojAssemblyReference.cache
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Anasayfa.resources
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Arama.resources
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Properties.Resources.resources
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Siralama.resources
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.csproj.GenerateResource.cache
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.csproj.CoreCompileInputs.cache
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.exe
+C:\Users\fb_se\OneDrive\Masaüstü\bmrepos\btu\Proje\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.pdb
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.exe.config
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.exe.manifest
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.application
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.exe
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\bin\Release\ARAMA VE SIRALAMA.pdb
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.csprojAssemblyReference.cache
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Anasayfa.resources
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Arama.resources
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Properties.Resources.resources
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA_VE_SIRALAMA.Siralama.resources
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.csproj.GenerateResource.cache
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.csproj.CoreCompileInputs.cache
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.exe.manifest
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.application
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.exe
+C:\Users\fb_se\OneDrive\Masaüstü\Search-and-Sort\ARAMA VE SIRALAMA\ARAMA VE SIRALAMA\obj\Release\ARAMA VE SIRALAMA.pdb
